@@ -211,13 +211,13 @@ border-bottom: 1px solid white;
 ------------------------------------------------------------*/
 
 body, .navigation ul li a, .navigation ul li ul li a, .subscribe input.mail, .subscribe input.submit, input.search, input.text, textarea, input.subscribe-text, input.subscribe-button {
-	font-family: 'TitilliumText22LMedium', Arial, sans-serif;
+	font-family:  Arial, sans-serif;
 }
 .welcome, .js .selectnav, .testimonials .author, .qoute, .description, h1.page-title, blockquote, .info-box p, table th, .tables-column .header h3, .comment .title span.right, .ei-title h3, #under-construction p, #clock-ticker .block .flip-top {
-	font-family: 'TitilliumText22LRegular', Arial, sans-serif;
+	font-family: Arial, sans-serif;
 }
 .recent-work .item h4, .day, .qoute h2, .progress-bar h5, .choose ul li, .button, .lightbox .item h4, .tables-column .header h1, .portfolio .item h4, .comment .title, .form-box label {
-	font-family: 'TitilliumText22LBold', Arial, sans-serif;
+	font-family: Arial, sans-serif;
 }
 .recent-blog .tags, .recent-blog .tags-comments, .tags-comments2, .subscribe input.mail, span.copyright, ul.team li p, .most-posts li span, .comment .title span.right {
 	font-size: 12px;
@@ -602,7 +602,7 @@ html[xmlns] .slides {
 	margin-left: -1px;
 }
 footer {
-	background-color: #6cb42c;
+	background-color: #00f84d;
 }
 footer.under-construction {
 	background: #fff;
@@ -771,7 +771,8 @@ This part contains the main styling for the site - be very carefull when editing
 
 
 body {
-	background: url(../images/cloth_alike.png);
+	/*background: url(../images/cloth_alike.png);*/
+	background-color: #0000e1;
 }
 .gwrapper {
 	width: 1000px;
@@ -1118,7 +1119,7 @@ p.testi {
 }
 .service-boxes:hover {
 	color: #fff;
-	background-color: #6cb42c;
+	background-color: #00f84d;
 }
 .MR37 {
 	margin-right: 37px !important;
@@ -3267,4 +3268,8 @@ div.imagedropshadow {
 	-moz-box-shadow: 1px 1px 5px #999; 
 	-webkit-box-shadow: 1px 1px 5px #999; 
 	box-shadow: 1px 1px 5px #999; 
+}
+
+ul.check-list-colored li{
+	font-size: 1.5em;
 }

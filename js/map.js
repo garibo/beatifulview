@@ -92,7 +92,7 @@
         ]
     }
 ];
-        var styledMap = new google.maps.StyledMapType(styles,{name: "Lázaro Cárdenas"});
+        var styledMap = new google.maps.StyledMapType(styles,{name: "Beatiful View Window Cleaning"});
         var myCenter=new google.maps.LatLng(30.120915,-95.396985);
         var mapProp = {
           center:myCenter,

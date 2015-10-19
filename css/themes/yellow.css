@@ -22,7 +22,7 @@ span.color, a:hover, .navigation ul li ul li a:hover, .recent-blog .tags-comment
 }
 span.line, .services .item:hover .square, .services .item.active .square, a.link, #accordion h3.ui-state-active, .meter > span:after, .animate > span > span, .icon-box, .button.color, .button.black:hover, .highlight-color, .blue .colorTip, #toggle-view li h3.color, .dropcap.color, .pagination.color li a.current, .pagination.color li a:hover, .tables-column.featured .header h3, .tables-column .footer.gray h3 span:hover, .tables-column .footer.black h3 span:hover, .tables-column.featured .footer h3 span, #options li a:hover, #options li a.selected, .popular-tags a:hover, .date-post .day, .date-post .month, .ei-slider-thumbs li.ei-slider-element, #under-construction {
 	outline: 0;
-	background-color: #6cb42c;
+	background-color: #00f84d;
 }
 .subscribe input.submit {
 	background: #FFFAA5;
