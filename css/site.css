@@ -602,7 +602,7 @@ html[xmlns] .slides {
 	margin-left: -1px;
 }
 footer {
-	background-color: #3CD7FD;
+	background-color: #6cb42c;
 }
 footer.under-construction {
 	background: #fff;
@@ -771,10 +771,10 @@ This part contains the main styling for the site - be very carefull when editing
 
 
 body {
-	background: url(../images/bg.png);
+	background: url(../images/cloth_alike.png);
 }
 .gwrapper {
-	width: 960px;
+	width: 1000px;
 	margin: 0 auto;
 	background: #fff;
 	border-left: 1px solid #d4d4d4;
@@ -1118,7 +1118,7 @@ p.testi {
 }
 .service-boxes:hover {
 	color: #fff;
-	background-color: #3CD7FD;
+	background-color: #6cb42c;
 }
 .MR37 {
 	margin-right: 37px !important;
@@ -3255,4 +3255,16 @@ background-image: url("../images/icons/link.png");
 .gwrapper .container.clearfix .sixteen.columns.clearfix .two-thirds.column.alpha .MB20 img {
 	float: left;
 	margin-right: 15px;
+}
+
+.imagedropshadow { 
+	padding: 5px; 
+	border: solid 15px #EFEFEF; 
+} 
+
+div.imagedropshadow { 
+	border: solid 1px #CCC; 
+	-moz-box-shadow: 1px 1px 5px #999; 
+	-webkit-box-shadow: 1px 1px 5px #999; 
+	box-shadow: 1px 1px 5px #999; 
 }
